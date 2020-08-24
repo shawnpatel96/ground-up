@@ -1,14 +1,10 @@
 import React from 'react'
 import NavBar from "./Nav"
-import styled from "styled-components"
-
-
-export default function HomePage() {
+export default function Signup() {
     return (
         <div>
             <NavBar navClassName ='navagationContainer' name ='hello'/>
-            <h1>hello from Home Page</h1>
+            <h1>hello from Sign Page</h1>
         </div>
     )
 }
-

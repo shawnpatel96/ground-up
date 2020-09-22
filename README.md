@@ -1,4 +1,6 @@
 # GroundUp
+Due to COVID-19, many people's lives were uprooted and thrown out of balance. GroundUp aims to help individuals regain their balance. We use revolutionary technologies to help restart your life, from the ground up.
+
 GroundUp is an application that consumes a job market API and display's jobs based on user parameters. Future functionality will include searching for lodging/housing around specified areas based on the job parameters. Users can also filter housing by price and type of housing. Everything from renting out single rooms, all the way up to AirBnB's. 
 Web Scrapping may get the job done here.
 
